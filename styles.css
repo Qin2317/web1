@@ -1,0 +1,27 @@
+
+.image-container img{
+    width: 200px; 
+    height: 200px; 
+  }
+/* ul li p的修改*/
+ul li p {
+    text-indent: 20px; /* 空格 */
+  }
+.header p{
+    text-indent: 20px; /* 空格 */   
+}
+  /* img.3的位置*/
+  .img3 {
+    text-align: center;
+  }
+  .border-element {
+    border: 1px solid rgb(192, 17, 8); /* 2px宽，实线，黑色 */
+  }
+/* styles.css */
+body {
+    background-color: #1ef3a198; /* 浅蓝色背景 */
+}
+
+
+
+  
